@@ -1,0 +1,17 @@
+{
+  "name": "AppScroll.js",
+  "main": "AppScroll.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nenebale/AppScroll.js",
+  "authors": [
+    "Lionel <nenebale@gmail.com>",
+    "Jacob <jakie8@gmail.com>"
+  ],
+  "description": "AppScroll is a tiny JS library that fixes the \"website dragging\" issue caused on iDevices",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "README.md",
+    "demo"
+  ]
+}
